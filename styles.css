@@ -49,10 +49,11 @@ body.page-body::after{
 }
 
 .logo{
-  max-height: 128px;
+  max-height: 70px;
   height: auto;
   width: 100%;
   object-fit: contain;
+  margin-top: 12px;
 }
 
 .tagline{
