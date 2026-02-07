@@ -38,7 +38,7 @@ body.page-body::after{
 
 @media (max-width: 1024px){
   body.page-body::after{
-    background: rgba(0, 0, 0, 0.45);
+    background: rgba(0, 0, 0, 0.3);
   }
 }
 
